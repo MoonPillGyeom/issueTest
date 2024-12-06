@@ -6,3 +6,5 @@ function issueTest2() {
 const i = 1;
 
 }
+
+const branchDev = 1;
